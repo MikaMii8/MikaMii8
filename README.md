@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikaMii8
-- 👀 I’m interested in applying Data Science in the Health sector 
+- 👀 I want to be a Data Scientist!
 - 🌱 I’m currently learning the skills needed to a good Data Scientist 
-- 💞️ I’m looking to collaborate on ML projects to enhance my coding skills
+- 💞️ I am currently interested in the use cases of LLMs in the industry. 
 - 📫 How to reach me : anushka.chaturvedy@aalto.fi
 
 <!---
